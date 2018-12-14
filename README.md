@@ -16,3 +16,10 @@ User Guide :-
 3. Open the command line window (Shift + Right click)
 4. Run the following command - python manage.py runserver 9000 (The server will start on port 9000)
 5. Open your default browser and go to - 'http://localhost:9000/'
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
